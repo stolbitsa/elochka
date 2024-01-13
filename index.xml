@@ -2,10 +2,10 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>elochka</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
   <readme>
-    <en>b1408dbc53f43a2741bd2481cfcbccaedca74601407faeacef5909366973a3f6</en>
+    <en>fc129c549e3b0a617c73ed69a71a66273a825125ffc1d310d8eef5dd9582eaed</en>
     <ru>c34ca2372c90fbfff78518bed2b34db075fba4293245e6776a44e7861eab95a8</ru>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
