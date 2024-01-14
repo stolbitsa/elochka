@@ -2,8 +2,8 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>elochka</repo>
-  <version>v1.0.4</version>
-  <next number="1" owner="stolbitsa" repo="mediant"/>
+  <version>v1.0.5</version>
+  <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
   <readme>
     <en>87d3e894d4453c37e4cd3615e4f6f8b14bc6243b7ada27c25d8a3bac54221331</en>
     <ru>3009ced7f5aedc2c00eb9af26d13994bf780dfa849ca60cb94f7a65c12172c4c</ru>
@@ -14,6 +14,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
+    <video name="elochka_0.mp4" size="436103" type="video/mp4">42c760e258602cf255c7f166fe84ebe26f1148815a30e09d8c764a414bb38aec</video>
     <notes>
       <note number="1" values="85" ticks="97" durationTicks="96" ppq="192" velocity="0.681"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -30,6 +31,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
+    <video name="elochka1_0.mp4" size="545484" type="video/mp4">4477c1927158a6d8e31a9ac29390b1f617cdc5c12f8ae17a1a459e391c278236</video>
     <notes>
       <note number="1" values="85" ticks="97" durationTicks="96" ppq="192" velocity="0.664"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -44,6 +46,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
+    <video name="elochka2_0.mp4" size="595416" type="video/mp4">ba1a489f95df091a638ea96df64297b29d72c418b2676418321902d1d977d27c</video>
     <notes>
       <note number="1" values="5" ticks="97" durationTicks="96" ppq="192" velocity="0.671"/>
       <note number="2" values="1" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -60,6 +63,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
+    <video name="elochka3_0.mp4" size="955939" type="video/mp4">9f831d1f2df5d10da45572de125450ccab46d9a6a882d15e477758402ff31fce</video>
     <notes>
       <note number="1" values="1" ticks="97" durationTicks="96" ppq="192" velocity="0.656"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -74,6 +78,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
+    <video name="elochka4_0.mp4" size="374390" type="video/mp4">9a943ed0da733f4c6bf40ce630ea9082bca67749cfaeec397de3822eb5b7567a</video>
     <notes>
       <note number="1" values="5" ticks="97" durationTicks="96" ppq="192" velocity="0.681"/>
       <note number="2" values="1" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -90,6 +95,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
+    <video name="elochka5_0.mp4" size="439193" type="video/mp4">a5abb242692f6bfa88efb1698f1d3a1a6236597cb8390eaaf97d4eab0cc2ceb2</video>
     <notes>
       <note number="1" values="1" ticks="97" durationTicks="96" ppq="192" velocity="0.701"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
