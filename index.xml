@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>elochka</repo>
-  <version>v1.0.5</version>
-  <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
+  <version>v1.0.6</version>
+  <next number="1" owner="stolbitsa" repo="mediant"/>
   <readme>
     <en>87d3e894d4453c37e4cd3615e4f6f8b14bc6243b7ada27c25d8a3bac54221331</en>
-    <ru>3009ced7f5aedc2c00eb9af26d13994bf780dfa849ca60cb94f7a65c12172c4c</ru>
+    <ru>a41402cb27552ff579be2fc7c161bd4e168b1c735a20202008ca65f9bd225b2e</ru>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
