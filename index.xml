@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>elochka</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="mediant"/>
   <readme>
-    <en>87d3e894d4453c37e4cd3615e4f6f8b14bc6243b7ada27c25d8a3bac54221331</en>
     <ru>a41402cb27552ff579be2fc7c161bd4e168b1c735a20202008ca65f9bd225b2e</ru>
+    <en>87d3e894d4453c37e4cd3615e4f6f8b14bc6243b7ada27c25d8a3bac54221331</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="elochka_0.mp4" size="436103" type="video/mp4">42c760e258602cf255c7f166fe84ebe26f1148815a30e09d8c764a414bb38aec</video>
+    <video name="elochka_0.mp4" size="436103" type="video/mp4" volume="1">42c760e258602cf255c7f166fe84ebe26f1148815a30e09d8c764a414bb38aec</video>
     <notes>
       <note number="1" values="85" ticks="97" durationTicks="96" ppq="192" velocity="0.681"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -31,7 +31,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="elochka1_0.mp4" size="545484" type="video/mp4">4477c1927158a6d8e31a9ac29390b1f617cdc5c12f8ae17a1a459e391c278236</video>
+    <video name="elochka1_0.mp4" size="545484" type="video/mp4" volume="1">4477c1927158a6d8e31a9ac29390b1f617cdc5c12f8ae17a1a459e391c278236</video>
     <notes>
       <note number="1" values="85" ticks="97" durationTicks="96" ppq="192" velocity="0.664"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -46,7 +46,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="elochka2_0.mp4" size="595416" type="video/mp4">ba1a489f95df091a638ea96df64297b29d72c418b2676418321902d1d977d27c</video>
+    <video name="elochka2_0.mp4" size="595416" type="video/mp4" volume="1">ba1a489f95df091a638ea96df64297b29d72c418b2676418321902d1d977d27c</video>
     <notes>
       <note number="1" values="5" ticks="97" durationTicks="96" ppq="192" velocity="0.671"/>
       <note number="2" values="1" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -63,7 +63,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="elochka3_0.mp4" size="955939" type="video/mp4">9f831d1f2df5d10da45572de125450ccab46d9a6a882d15e477758402ff31fce</video>
+    <video name="elochka3_0.mp4" size="955939" type="video/mp4" volume="1">9f831d1f2df5d10da45572de125450ccab46d9a6a882d15e477758402ff31fce</video>
     <notes>
       <note number="1" values="1" ticks="97" durationTicks="96" ppq="192" velocity="0.656"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -78,7 +78,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="elochka4_0.mp4" size="374390" type="video/mp4">9a943ed0da733f4c6bf40ce630ea9082bca67749cfaeec397de3822eb5b7567a</video>
+    <video name="elochka4_0.mp4" size="374390" type="video/mp4" volume="1">9a943ed0da733f4c6bf40ce630ea9082bca67749cfaeec397de3822eb5b7567a</video>
     <notes>
       <note number="1" values="5" ticks="97" durationTicks="96" ppq="192" velocity="0.681"/>
       <note number="2" values="1" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
@@ -95,7 +95,7 @@
     <bpm>72</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>6</tonalities>
-    <video name="elochka5_0.mp4" size="439193" type="video/mp4">a5abb242692f6bfa88efb1698f1d3a1a6236597cb8390eaaf97d4eab0cc2ceb2</video>
+    <video name="elochka5_0.mp4" size="439193" type="video/mp4" volume="1">a5abb242692f6bfa88efb1698f1d3a1a6236597cb8390eaaf97d4eab0cc2ceb2</video>
     <notes>
       <note number="1" values="1" ticks="97" durationTicks="96" ppq="192" velocity="0.701"/>
       <note number="2" values="3" ticks="192" durationTicks="88" ppq="192" velocity="0.803"/>
